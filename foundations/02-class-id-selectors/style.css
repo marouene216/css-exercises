@@ -1,0 +1,25 @@
+*{
+    color: black;
+        
+}
+
+p{
+    background-color: rgb(255, 144, 236);
+    font-size: 30px;
+}
+
+div{
+    font-family: sans-serif;
+}
+.p3{
+    font-size: 60px;    
+}
+.div2{
+    background-color: chartreuse;
+    font-weight: bold;
+    font-size: 45px;
+}
+#div1{
+    color: blue;
+    font-size: 70px;
+}
